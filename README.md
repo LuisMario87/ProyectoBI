@@ -1,4 +1,4 @@
-# ProyectiBI
+# Proyecto BI
 # Proyecto de Analítica de Datos y Business Intelligence — Caso Farmacia
 
 Descripción
