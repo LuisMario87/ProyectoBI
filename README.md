@@ -1,17 +1,17 @@
 # ProyectiBI
 # Proyecto de Analítica de Datos y Business Intelligence — Caso Farmacia
 
-## 📌 Descripción
+Descripción
 Este proyecto aplica técnicas de **Analítica de Datos y Business Intelligence (BI)** a un dataset de ventas farmacéuticas (30,000 registros).
 El objetivo es desarrollar un pipeline reproducible en **Python** para la limpieza, modelado y análisis de datos, además de dashboards con KPIs accionables.
 
-## 🎯 Objetivos
+Objetivos
 - Implementar un pipeline ETL reproducible para el dataset farmacéutico.
 - Definir y calcular KPIs relevantes para el negocio.
 - Construir dashboards con narrativa ejecutiva.
 - Documentar resultados y visualizaciones en reportes y notebooks.
 
-## 📂 Estructura del repositorio
+Estructura del repositorio
 repo_proyecto_farmacia/
 │
 ├── data/
@@ -30,7 +30,7 @@ repo_proyecto_farmacia/
 └── README.md
 
 
-## ⚙️ Requisitos
+ Requisitos
 - Python 3.9+
 - Bibliotecas:
   - pandas
