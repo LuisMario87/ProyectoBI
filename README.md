@@ -15,7 +15,7 @@ Estructura del repositorio
 repo_proyecto_farmacia/
 │
 ├── data/
-│ ├── raw/ # Dataset original (no incluido aquí por privacidad)
+│ ├── raw/ # Dataset muestra original
 │ └── processed/ # Dataset procesado de muestra
 │
 ├── scripts/
@@ -25,8 +25,7 @@ repo_proyecto_farmacia/
 │ └── exploracion_inicial.ipynb # Notebook de exploración y visualización
 │
 ├── report/
-│ └── Entregable_Intermedio_Farmacia.docx # Documento intermedio (Word)
-│
+│ └── AvanceDeProyecto.docx # PDF│
 └── README.md
 
 
